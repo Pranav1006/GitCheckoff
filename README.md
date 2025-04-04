@@ -1,1 +1,2 @@
 # GitCheckoffDataFest
+learn dynamic programming!
